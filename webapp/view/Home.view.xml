@@ -6,6 +6,10 @@
 	<Page
 		id="page"
 		title="{i18n>title}">
-		<content></content>
+		<content>
+		<List headerText="Directions">
+<StandardListItem/>
+</List>
+		</content>
 	</Page>
 </mvc:View>
